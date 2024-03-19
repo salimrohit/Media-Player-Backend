@@ -1,0 +1,103 @@
+{
+  "video": [
+    {
+      "id": "1",
+      "caption": "Metro Boomin, Don Toliver, Future - Too Many Nights (Official Video)",
+      "imageUrl": "https://i1.sndcdn.com/artworks-Ym55i466YAsF-0-t500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/NyTkaQHdySM?autoplay=1"
+    },
+    {
+      "id": "2",
+      "caption": "Bas - Lit ft. J. Cole, KQuick",
+      "imageUrl": "https://i1.sndcdn.com/artworks-000083107314-vwg6ph-t500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/WCWubSL5LeE?autoplay=1"
+    },
+    {
+      "id": "3",
+      "caption": "Future - Low Life (Official Music Video) ft. The Weeknd",
+      "imageUrl": "https://i0.wp.com/rosecransave.com/wp-content/uploads/2015/12/the-weeknd-links-up-with-future-for-song-low-life.jpg?fit=690%2C500&ssl=1",
+      "embedLink": "https://www.youtube.com/embed/K_9tX4eHztY?autoplay=1"
+    },
+    {
+      "id": "4",
+      "caption": "21 Savage - redrum (Official Music Video)",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273bbdceba2bf1867d4966d0347",
+      "embedLink": "https://www.youtube.com/embed/U4mADkt6o-M?autoplay=1"
+    },
+    {
+      "id": "5",
+      "caption": "Dreamville - Sacrifices ft. EARTHGANG, J. Cole, Smino & Saba (Official Music Video)",
+      "imageUrl": "https://i1.sndcdn.com/artworks-000561771606-t8wa63-t500x500.jpg",
+      "embedLink": "https://www.youtube.com/embed/ANzgMYgoJsA?autoplay=1"
+    },
+    {
+      "id": "6",
+      "caption": "The Marías - Run Your Mouth",
+      "imageUrl": "https://static.stereogum.com/uploads/2024/03/The-Marias-Submarine-1709832622.jpeg",
+      "embedLink": "https://www.youtube.com/embed/9NOlqJHvAZo?autoplay=1"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Bas - Lit ft. J. Cole, KQuick",
+      "url": "https://www.youtube.com/embed/WCWubSL5LeE?autoplay=1",
+      "timeStamp": "12/03/2024, 12:22:43",
+      "id": 1
+    },
+    {
+      "caption": "Metro Boomin, Don Toliver, Future - Too Many Nights (Official Video)",
+      "url": "https://www.youtube.com/embed/NyTkaQHdySM?autoplay=1",
+      "timeStamp": "12/03/2024, 12:23:57",
+      "id": 2
+    },
+    {
+      "caption": "The Marías - Run Your Mouth",
+      "url": "https://www.youtube.com/embed/9NOlqJHvAZo?autoplay=1",
+      "timeStamp": "12/03/2024, 12:24:23",
+      "id": 3
+    },
+    {
+      "caption": "Bas - Lit ft. J. Cole, KQuick",
+      "url": "https://www.youtube.com/embed/WCWubSL5LeE?autoplay=1",
+      "timeStamp": "15/03/2024, 12:56:18",
+      "id": 4
+    },
+    {
+      "caption": "21 Savage - redrum (Official Music Video)",
+      "url": "https://www.youtube.com/embed/U4mADkt6o-M?autoplay=1",
+      "timeStamp": "15/03/2024, 13:22:47",
+      "id": 5
+    },
+    {
+      "caption": "Future - Low Life (Official Music Video) ft. The Weeknd",
+      "url": "https://www.youtube.com/embed/K_9tX4eHztY?autoplay=1",
+      "timeStamp": "18/03/2024, 11:23:34",
+      "id": 6
+    },
+    {
+      "caption": "The Marías - Run Your Mouth",
+      "url": "https://www.youtube.com/embed/9NOlqJHvAZo?autoplay=1",
+      "timeStamp": "18/03/2024, 11:23:38",
+      "id": 7
+    }
+  ],
+  "category": [
+    {
+      "category": "J. Cole features",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Bas - Lit ft. J. Cole, KQuick",
+          "imageUrl": "https://i1.sndcdn.com/artworks-000083107314-vwg6ph-t500x500.jpg",
+          "embedLink": "https://www.youtube.com/embed/WCWubSL5LeE?autoplay=1"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "category": "Flume",
+      "allVideos": [],
+      "id": 4
+    }
+  ]
+}
